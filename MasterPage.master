@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<script runat="server">
+
+    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs)
+
+    End Sub
+</script>
+
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : Domesticated
+Description: A two-column, fixed-width design for 1024x768 screen resolutions.
+Version    : 1.0
+Released   : 20100701
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        &nbsp;&nbsp;
+        <br />
+    <a href="http://www.mahindrasatyam.com/">
+        
+        </a>&nbsp;<div id="header">
+    <asp:Panel ID="Panel2" runat="server" Height="286px" Width="888px" 
+        style="margin-left: 0px; margin-top: 0px">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images2/atraiaaaaa.png" 
+            style="width: 235px; height: 142px; margin-left: 0px;" /><asp:Image 
+            ID="Image1" runat="server" Height="119px" 
+            ImageUrl="~/Images2/Network Planning Icon.jpg" Width="134px" />
+        <asp:Image ID="Image2" runat="server" Height="123px" 
+            ImageUrl="~/Images2/Network Services Icon.jpg" Width="149px" />
+        <asp:Image ID="Image3" runat="server" Height="145px" 
+            ImageUrl="~/Images2/Sproutdesk Icon.jpg" Width="136px" />
+        <asp:Image ID="Image4" runat="server" Height="124px" 
+            ImageUrl="~/Images2/Network Support Icon.jpg" Width="118px" />
+        <br />
+        <br />
+        <asp:Panel ID="Panel3" runat="server" BackColor="#663399" ForeColor="#EFBE6B" 
+            Height="20px" style="margin-left: 0px" Width="876px">
+            <marquee> Atria University Online HelpDesk...Login and get solutions for all your problems!!!</marquee></asp:Panel>
+        <embed quality="high" src="Flash/flashvortex2.swf" 
+            style="width:894px; height:154px; margin-left:0px;"></embed>
+        <br />
+        
+    </asp:Panel>
+    <a href="http://www.mahindrasatyam.com/">
+    <br />
+            </a>
+            <br />
+    <br />
+    <br />
+            <br />
+    <a href="http://www.mahindrasatyam.com/">
+   
+    
+<!-- end #header-wrapper -->
+	<!-- end #menu -->
+</div>
+<hr />
+ <br />
+    <br />
+            <br />
+            <br />
+            <br />
+            </a>
+        <br />
+        <br />
+        <br />
+        <br />
+        <asp:Panel ID="Panel4" runat="server" Height="924px" Width="880px" 
+            style="margin-left: 35px; margin-top: 68px;"  >
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br />
+                </p>
+            </asp:ContentPlaceHolder>
+        </asp:Panel>
+        <br />
+            </form>
+              
+</body>
+</html>
